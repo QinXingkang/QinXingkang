@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QinXingkang
-- 👀 I’m interested in VSc++
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in VSC and java
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me by sending emails at 2505083096@qq.com
 
